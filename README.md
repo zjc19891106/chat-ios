@@ -33,8 +33,6 @@
 
 ![](./demo.png)
 
-如果用户下载有环信老Demo的话，需要卸载老Demo后，系统相机扫码后在Testflight中->点击环信->点击以前的Builds->点击4.4.1，安装4.4.1下最新的build即可。
-
 #  前置环境需求
 
 - Xcode 15.0及以上版本 原因是UIKit中使用了部分检测音频AVAudioApplication api适配iOS17以上系统
