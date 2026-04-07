@@ -35,11 +35,11 @@
 
 #  前置环境需求
 
-- Xcode 16.0及以上版本 原因是UIKit中使用了部分检测音频AVAudioApplication api适配iOS17以上系统
+- Xcode 26.0及以上版本 原因是UIKit中使用了部分检测音频AVAudioApplication api适配iOS17以上系统
 - 最低支持系统：iOS 14.0
 - 请确保您的项目已设置有效的开发者签名
 
-可以使用 CocoaPods 安装 EaseChatUIKit 作为 Xcode 项目的依赖项。
+可以使用 CocoaPods （1.16.3 above）安装 EaseChatUIKit 作为 Xcode 项目的依赖项。
 
 在podfile中添加如下依赖
 
