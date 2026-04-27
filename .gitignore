@@ -72,3 +72,4 @@ iOSInjectionProject/
 .DS_Store
 Podfile.lock
 EaseChatDemo/EaseChatDemo/CustomConstants/PublicDefines.swift
+.omx/

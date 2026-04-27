@@ -11,10 +11,9 @@ import EaseChatUIKit
 final class AboutEasemobController: UIViewController {
 
     private let infos = [
-        ["title":"Official Website".localized(),"content":"https://www.huanxin.com","destination":"https://www.huanxin.com"],
+        ["title":"Official Website".localized(),"content":"https://www.easemob.com","destination":"https://www.easemob.com"],
         ["title":"Hotline".localized(),"content":"400-622-1766","destination":"tel://400-622-1766"],
         ["title":"Business Cooperation".localized(),"content":"bd@easemob.com","destination":"mailto:bd@easemob.com"],
-        ["title":"Channel Cooperation".localized(),"content":"qudao@easemob.com","destination":"mailto:qudao@easemob.com"],
         ["title":"Suggestions".localized(),"content":"issues@easemob.com","destination":"mailto:issues@easemob.com"],
         ["title":"Privacy Policy".localized(),"content":"https://www.easemob.com/demo/privacy-policy","destination":"https://www.easemob.com/demo/privacy-policy"]
     ]
